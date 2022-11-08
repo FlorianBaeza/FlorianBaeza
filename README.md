@@ -1,5 +1,5 @@
 <div>
-  <img src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" width=100 />
+  <img src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" width=300 />
 </div>
 
 # Hi there 👋
