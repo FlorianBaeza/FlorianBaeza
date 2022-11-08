@@ -1,9 +1,12 @@
+<div>
+  <img src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" width=50 />
+</div>
+
 # Hi there 👋
 
 My name is Florian, and i'm a french developer !
 
 
-<img src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" width=100/>
 
 <!--
 **FlorianBaeza/FlorianBaeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
