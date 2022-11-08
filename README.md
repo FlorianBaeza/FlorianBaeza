@@ -12,10 +12,10 @@
     </h1>
 </div>
 
+
+### :man_technologist: About Me :
+
 My name is Florian, and i'm a french developer !
-
-### :woman_technologist: About Me :
-
 
 
 <!--
