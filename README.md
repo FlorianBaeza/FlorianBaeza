@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif" width=400 />
-  <div id="badges">
-    <a href="your-linkedin-URL">
+  <div id="badges" style="margin-top:10px;">
+    <a href="https://www.linkedin.com/in/florian-baeza">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
