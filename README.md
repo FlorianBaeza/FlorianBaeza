@@ -12,11 +12,11 @@
   </h1>
 </div>
 
-- 💻 I'm a developer from France
-
 - 🔭 I’m currently working on **a social media project with friends**
 
 - 🌱 I’m currently learning **JS Frameworks, Dart/Flutter and Symfony**
+
+- ⚡ I'm passionate about **roleplaying and fantasy**
 
 - 📫 How to reach me **baeza.florian@gmail.com**
 
