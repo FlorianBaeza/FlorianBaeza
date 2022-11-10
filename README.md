@@ -9,12 +9,11 @@
   <h1>
     Hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>
+  </h1>
+  <h3>I'm a developer from France</h3>
 </div>
 
 
-<h1 align="center">Hi There 👋, I'm Florian</h1>
-<h3 align="center">I'm a developer from France</h3>
 
 - 🔭 I’m currently working on **a social media project with friends**
 
